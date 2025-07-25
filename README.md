@@ -14,8 +14,8 @@ Built with a React JS frontend using Bootstrap for styling, and a Node.js/Expres
 ```
 ## ⚡ Quick Start
 
-([git clone](https://github.com/pratikyesankar/majorProjectFrontend))
-- cd bookstore-ecommerce
+git clone (https://github.com/pratikyesankar/majorProjectFrontend)
+cd bookstore-ecommerce
 npm install
 npm run dev   
 ```
