@@ -29,9 +29,6 @@ npm run dev
 - **Express**
 - **MongoDB**
 
-## Demo Video
-[Loom Video] ()
-
 ## Features
 
 **Home**
